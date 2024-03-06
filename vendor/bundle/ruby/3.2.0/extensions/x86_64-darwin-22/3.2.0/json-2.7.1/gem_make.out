@@ -1,0 +1,16 @@
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240305-12402-qcyile sitelibdir\=./.gem.20240305-12402-qcyile clean
+
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240305-12402-qcyile sitelibdir\=./.gem.20240305-12402-qcyile
+make: Nothing to be done for `all'.
+
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240305-12402-qcyile sitelibdir\=./.gem.20240305-12402-qcyile install
+
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240305-12402-qcyile sitelibdir\=./.gem.20240305-12402-qcyile clean
